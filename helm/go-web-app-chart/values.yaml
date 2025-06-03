@@ -8,7 +8,7 @@ image:
   repository: brasms007/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "15418214151"
+  tag: "15418342643"
 
 ingress:
   enabled: false
