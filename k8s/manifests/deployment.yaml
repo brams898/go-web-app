@@ -19,3 +19,4 @@ spec:
         image: brams007/go-web-app:v1
         ports:
         - containerPort: 8080
+        
